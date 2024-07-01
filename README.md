@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krithikaramalakshmi
 - 👀 I’m interested in full stack development and data analytics
-- 🌱 I’m currently learning B.E computer science and design
+- 🌱 I’m currently pursuing B.E computer science and design
 - 💞️ I’m looking to collaborate on web technology and data science projects
 - 📫 contact@:krithi3104@gmail.com 
 
